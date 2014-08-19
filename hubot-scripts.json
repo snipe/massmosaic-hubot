@@ -36,6 +36,7 @@
 "redis-brain.coffee",
 "reload.coffee",
 "shipit.coffee",
+"sprintly.coffee",
 "twitter.coffee",
 "update.coffee",
 "urban.coffee"
